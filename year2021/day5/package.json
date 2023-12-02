@@ -1,0 +1,10 @@
+{
+  "name": "aoc2021-day5",
+  "scripts": {
+    "start1": "node script1.js",
+    "start2": "node script2.js"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
