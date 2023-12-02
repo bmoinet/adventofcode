@@ -33,4 +33,4 @@ foreach ($file as $line) {
     $sum += $power;
 }
 
-echo $sum;
+echo $sum; // 69110

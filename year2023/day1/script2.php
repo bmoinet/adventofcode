@@ -73,4 +73,4 @@ foreach ($file as $line) {
 
 }
 
-echo $sum;
+echo $sum; // 354203

@@ -37,4 +37,4 @@ foreach ($file as $line) {
     }
 }
 
-echo $sum;
+echo $sum; // 2810

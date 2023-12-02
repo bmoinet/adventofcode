@@ -26,4 +26,4 @@ foreach ($file as $line) {
     $sum += $val;
 }
 
-echo $sum;
+echo $sum; // 54667
